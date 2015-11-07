@@ -29,11 +29,11 @@ bool isPalindrome(string s)
 	return true;
 }
 
-int main()
+/*int main()
 {
 	cout<<isPalindrome("Able was I,ere I saw Elba!");
 	cout<<endl<<isPalindrome("Ray a Ray");
 	return 0;
-}
+}*/
 
 
