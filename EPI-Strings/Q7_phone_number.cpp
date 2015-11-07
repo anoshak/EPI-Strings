@@ -35,12 +35,14 @@ vector<string> letterCombinations(string digits) {
 	return result;
 }
 
+/*
 int main()
 {
 	vector<string> result = letterCombinations("23");
 	for(int i=0;i<result.size();i++)
 		cout<<result[i]<<" ";
 }
+*/
 
 
 
