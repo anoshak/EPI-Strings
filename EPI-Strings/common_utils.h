@@ -17,6 +17,7 @@
 #include<climits>
 #include<stdlib.h>
 #include<time.h>
+#include<cctype>
 
 using namespace std;
 
