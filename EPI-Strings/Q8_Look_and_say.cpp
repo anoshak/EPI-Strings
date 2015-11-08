@@ -30,9 +30,9 @@ string lookAndSay(int n)
 	}
 	return last;
 }
-
+/*
 int main()
 {
 	cout<<lookAndSay(5);
 	return 0;
-}
+}*/
